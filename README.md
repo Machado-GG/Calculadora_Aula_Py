@@ -1,4 +1,4 @@
-# Projetos Python para Nota Final
+# Projetos Python
 
 Este repositório contém uma coleção de pequenos projetos em Python desenvolvidos como parte de avaliação
 
